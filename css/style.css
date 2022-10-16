@@ -1,0 +1,78 @@
+#reason,
+#french-troops,
+#england-troops,
+#stages-war,
+#consequences {
+	color: rgb(77, 237, 23);
+	font-family: "Larsseit";
+	font-weight: 700;
+}
+
+#first-stage,
+#peace-period,
+#second-stage,
+#second-armistice,
+#third-stage,
+#fourth-stage,
+#value-war {
+	color: rgb(255, 36, 189);
+	font-family: "Larsseit";
+	font-weight: 500;
+}
+
+.link {
+	color: rgb(14, 237, 253);
+	font-family: "Larsseit";
+	font-weight: 400;
+}
+
+.text-reason p {
+	color: darkgoldenrod;
+	font-family: "Lato";
+	font-weight: 400;
+}
+
+.text-french-troops,
+.text-third-stage,
+.text-fourth-stage {
+	color: rgb(185, 11, 254);
+	font-family: "Lato";
+	font-weight: 700;
+}
+
+.list-content li {
+	color: rgb(254, 151, 8);
+	font-family: "Lato";
+	font-weight: 900;
+}
+
+.text-second-stage>p {
+	color: rgb(51, 10, 255);
+	font-family: "Roboto";
+	font-weight: 400;
+}
+
+.entry * {
+	color: aquamarine;
+	font-family: "Roboto";
+	font-weight: 400;
+}
+
+.text-value~p {
+	color: rgb(255, 22, 103);
+	font-family: "Roboto";
+	font-weight: 700;
+}
+
+.text-five-section+p {
+	color: rgb(72, 147, 68);
+	font-family: "Roboto";
+	font-weight: 900;
+}
+
+header,
+footer {
+	color: deeppink;
+	font-family: "Lato";
+	font-weight: 900;
+}
